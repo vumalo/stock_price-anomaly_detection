@@ -2,6 +2,8 @@
 
 This project performs anomaly detection on Apple Inc.'s (AAPL) stock price using Python.
 
+![Anomaly Detection Chart](anomaly_chart.png)
+
 ## 🔍 What We Do
 
 - Fetch historical stock data using `yfinance`
